@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.myProject.runner.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 124.302 s - in com.myProject.runner.CukesRunner
