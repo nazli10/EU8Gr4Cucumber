@@ -91,12 +91,13 @@ Feature: Login to the app
     And user lands on "Forgot Password" page
     And user types "user4" as username
     And user clicks REQUEST button
-    Then user changes his or her password
+    Then users change their password
 
 
 
   @INN-1534
-  Scenario: Verify user can see the "Remember me on this computer" checkbox on the login page and it should be clickable
+  Scenario: Verify user can see the "Remember me on this computer" checkbox on the login page and
+  it should be clickable
     When user sees the Remember me on this computer checkbox
     Then user should be able to click on it
 
